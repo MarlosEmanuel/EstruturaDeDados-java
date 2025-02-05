@@ -67,4 +67,6 @@ public class ArvoreBinaria {
             System.out.println(node.getNumber()); // Visita o nó atual
         }
     }
+
+    //Adicionando uma linha para conectar no Github
 }
